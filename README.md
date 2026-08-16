@@ -89,3 +89,4 @@ Wast2의 개발에 관심이 있다면 자유롭게 기여할 수 있습니다.
 # Wast2
 
 **Small language. Big possibilities.**
+>**Weightless Algorithmic Scripting Tool**
